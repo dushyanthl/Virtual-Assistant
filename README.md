@@ -1,4 +1,4 @@
-# Virtual  Personal Assistant
+# Virtual Personal Assistant
 The Virtual Assistant is capable of performing many tasks with some unique features, that you 
 haven’t seen yet...
 
@@ -29,7 +29,7 @@ haven’t seen yet...
 - pip install SpeechRecognition
 - pip install pyttsx3
 - pip install playsound
-- pip install Pillow
+- pip install pillow
 - pip install pyscreenshot
 - pip install pynput
 - pip install psutil
@@ -50,10 +50,10 @@ haven’t seen yet...
 - Right shift 4
 - What is the value of factorial 10?
 - What is the value of Sin 90?
-- what is the log of 1000
+- what is the log of 1000?
 
 # Files Creation
-- Create a empty file
+- Create a Word file
 - Create a Python file
 - Create a Java file
 - Create a PowerPoint file

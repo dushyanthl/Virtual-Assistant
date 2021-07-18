@@ -29,7 +29,7 @@ haven’t seen yet...
 - pip install SpeechRecognition
 - pip install pyttsx3
 - pip install playsound
-- pip install pillow
+- pip install Pillow
 - pip install pyscreenshot
 - pip install pynput
 - pip install psutil

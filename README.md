@@ -1,4 +1,4 @@
-# Virtual Personal Assistant
+# Virtual Assistant
 The Virtual Assistant is capable of performing many tasks with some unique features, that you 
 haven’t seen yet...
 
